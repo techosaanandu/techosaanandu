@@ -1,5 +1,6 @@
 
-![Header](./github-header-image.png)
+![Header](./GITHUB.png)
+
 # 💫 About Me:
 Hi there! 👋 I'm Anandu Ajesh, a passionate Full-Stack Developer based in Kerala.<br><br>🌟 About Me:<br>I'm a software engineer with a knack for creating innovative web applications and solving complex problems. With experience in front-end and back-end development, I love building intuitive and scalable solutions.<br><br>💻 Skills & Technologies:<br><br>1.   Languages: JavaScript, Python<br>2.  Frameworks & Tools: React, Node.js, Express , Tailwind,<br>3.  Specialties: Full-stack development, Machine Learning<br><br>
 
