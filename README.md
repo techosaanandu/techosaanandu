@@ -1,8 +1,8 @@
-
-![Header](./GITHUB.png)
-
-# 💫 About Me:
-Hi there! 👋 I'm Anandu Ajesh, a passionate Full-Stack Developer based in Kerala.<br><br>🌟 About Me:<br>I'm a software engineer with a knack for creating innovative web applications and solving complex problems. With experience in front-end and back-end development, I love building intuitive and scalable solutions.<br><br>💻 Skills & Technologies:<br><br>1.   Languages: JavaScript, Python<br>2.  Frameworks & Tools: React, Node.js, Express , Tailwind,<br>3.  Specialties: Full-stack development, Machine Learning<br><br>
+<h1 align="center">
+  <img src="https://camo.githubusercontent.com/59abbe1a8058919c2878580931b307830bd4e614e16d08e78416ad233881e9ae/68747470733a2f2f6c6976652e737461746963666c69636b722e636f6d2f36353533352f35313335303233393236375f353435363037363365365f622e6a7067" alt="header" width="1200" height="300" />
+</h1>
+<h1 align="center">Hi 👋, I'm ANANDU AJESH</h1>
+<p align="center">Aspiring Full Stack Web Developer</P>.<br><H3>🌟About Me:</H3> <br>I'm a software engineer with a knack for creating innovative web applications and solving complex problems. With experience in front-end and back-end development, I love building intuitive and scalable solutions.<br><br><H3>💻 Skills & Technologies:</H3><br>1.   Languages: JavaScript, Python<br>2.  Frameworks & Tools: React, Node.js, Express , Tailwind,<br>3.  Specialties: Full-stack development, Machine Learning<br><br>
 
 
 # 💻 Tech Stack:
