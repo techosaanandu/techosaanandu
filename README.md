@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://t3.ftcdn.net/jpg/07/91/26/22/240_F_791262201_YQRDsHAucOizDPB5VrXIqDWcNSNlsfmY.jpg" alt="header" width="1200" height="300" />
+  <img src="https://cognizant.scene7.com/is/image/cognizant/generative-ai-societys-new-equalizer-wf2369113_banner?wid=1600&fit=wrap" alt="header" width="1200" height="300" />
 </h1>
 <h1 align="center">Hi 👋, I'm ANANDU AJESH</h1>
 <p align="center">Aspiring Full Stack Web Developer</P>.<br><H3>🌟About Me:</H3> <br>I'm a software engineer with a knack for creating innovative web applications and solving complex problems. With experience in front-end and back-end development, I love building intuitive and scalable solutions.<br><br><H3>💻 Skills & Technologies:</H3><br>1.   Languages: JavaScript, Python<br>2.  Frameworks & Tools: React, Node.js, Express , Tailwind,<br>3.  Specialties: Full-stack development, Machine Learning<br><br>
